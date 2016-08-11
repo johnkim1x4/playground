@@ -13,5 +13,6 @@ const Main = React.createClass({
     )
   }
 });
+// React.cloneElement passes down the props down to the first child
 
 export default Main;
